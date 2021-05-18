@@ -1,0 +1,148 @@
+body{
+    background-color:#10354f;
+}
+/*  */
+#clogo{
+    color: white;
+    font-family: 'Times New Roman', Times, serif,solid;
+    font-size: 25px;
+}
+.nav-link:hover{
+    color: #fff;
+}
+.card-title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+.numero{
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.numero:hover{
+    color: #fd8f44;
+}
+#men{
+    color: white;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 7%;
+}
+#book{
+    padding-top:5%;
+    background-color:#ecf4f7;
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+}
+#fond{
+    background-image: url(../images/fon.png);
+    width: auto;
+    height:900px;
+}
+#formu h1{
+    color: #fff;
+padding-left: 35%;
+}
+#formu span{
+    color:cornflowerblue;
+    padding-left: 30%;
+}
+#formu2{
+padding-left: 29%;}
+#formu1{
+    padding-top: 2%;
+    width:auto;
+}
+
+input{
+    border-radius: 24px;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    width: 500px;
+    height: 47px;
+}
+#but{
+    background-color:#fd8f44;
+    box-shadow: none;
+    border-radius: 24px;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    width: 200px;
+    height: 47px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.navbar{
+    /* background-color: #10354f!important;
+    position: fixed; */
+    width: 100%;
+}
+#open{
+    font-size: 75px;
+    color: white;
+    padding-left: 24%;
+    font-family: 'Times New Roman', Times, serif;
+}
+#al{
+    padding-top: 10%;
+}
+#lea{
+    padding-left: 40%;
+    color:skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+#lea1{
+    padding-left: 45%;
+}
+#parti2{
+    background-color:#ecf4f7;
+    padding-top: 5%;
+}
+#stu{
+    padding-left: 20%;
+}
+#sfl{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+}
+#sfl2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+#sfl3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+#scroll_to_top {
+    position: fixed;
+    width: 25px;
+    height: 25px;
+    bottom: 50px;
+    right: 30px;
+  }
+  #scroll_to_top img {
+    width: 45px;
+  }
+  #social{
+    width: 25px;
+    height: 25px;
+}
+.change :hover{
+    color: #fd8f44;
+    background-color: #fd8f44;
+}
+ 
+hr{
+    border-color: white;
+    color: white;
+}
+a:hover{
+    color: #fff;
+}
